@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm a Product Specialist working at Sabre, supporting a Data & Analytics app. I'm also a Product Manager on my own startup company! - more on this soon. I also know HTML, CSS, and JavaScript. This place contains all of my work, most of them in private folders, but you can see some things here I used to work. I have also my website hosted here (it needs an update since I have not updated this since 2018)
+I'm a Lead Software Systems Engineer working at Sabre in Uruguay, supporting a Data & Analytics app. I'm also a Product Manager on my own startup company! - more on this soon. I also know HTML, CSS, JavaScript and Node. This place contains all of my work, most of them in private folders, but you can see some things here I used to work. I have also my website hosted here (it needs an update since I have not updated this since 2018)
 
 If you want to contact me, you can drop me an [e-mail](mailto:mariano@bordon.uy).
 
